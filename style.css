@@ -1,0 +1,93 @@
+* {
+  box-sizing: border-box;
+}
+
+header {
+  background:#ADB561;
+}
+
+/* styling for the single h1 on the page*/
+h1 {
+  font-family: Arial, serif;
+  font-size: 60px;
+  color:#545548;
+  letter-spacing: -3px;
+  text-align:center;
+  margin:auto;
+  padding-top: 30px;
+}
+
+/* styling for all h3 in header*/
+header h3 {
+  padding-bottom: 30px;
+}
+
+/* styling for both li and p elements*/
+li, p {
+  font-family:arial, sans-serif;
+  color:#545548;
+  font-size:22px;
+  line-height:150%;
+}
+
+/* styling for both h2 and h3 elements*/
+h2, h3 {
+  font-family:georgia, sans-serif;
+  color:#545548;
+  font-weight: 700;
+  text-align:center;
+}
+
+/* this centers all img on page (1 right now)
+and gives img a bottom margin of 70px */
+img {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom: 70px;
+}
+
+body {
+  background:beige ;
+}
+
+/* This makes all the text on the page in the article element into a centered column*/
+article {
+  width:710px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+/*This adds 70px of space above and below each section element*/
+section {
+  margin:70px 0px;
+}
+
+ol {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  width:150px;
+  }
+
+hr {
+  height:2px;
+  background:#545548;
+}
+  
+/* pseudo classes for links */
+a:link {color:blue}
+a:visited {color:purple}
+a:hover {color:magenta}
+a:active {color:limegreen}
+
+footer {
+  background:#ADB561;
+  text-align:center;
+  font-family:arial;
+  height:90px;
+  padding-top:17px;
+  margin:auto;
+}
+
