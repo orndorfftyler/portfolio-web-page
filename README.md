@@ -1,3 +1,3 @@
 # portfolio-web-page
 This is a web page that will hold my portfolio.
-[https://orndorfftyler.github.io/portfolio-web-page/](Check it out!)
+[Check it out!](https://orndorfftyler.github.io/portfolio-web-page/)
