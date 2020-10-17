@@ -1,2 +1,2 @@
 # portfolio-web-page
-Web page for portfolio.
+This is a web page that will hold my portfolio.
