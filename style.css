@@ -51,8 +51,8 @@ body {
   background:beige ;
 }
 
-/* This makes all the text on the page in the article element into a centered column*/
-article {
+/* This makes all the text on the page in the main element into a centered column*/
+main {
   width:710px;
   display:block;
   margin-left:auto;
@@ -90,4 +90,3 @@ footer {
   padding-top:17px;
   margin:auto;
 }
-
